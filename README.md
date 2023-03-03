@@ -11,4 +11,4 @@ This is a project I did as a Data Analyst with Pairview Limited for a Hardware s
 * Insights of the project includes revenue & Profitability, Production & Manufacturing, Supply Chain efficiency, Customer demographic analysis
 * Product Benchmarking, 5-year Sales forecast, Supply Chain efficiency, and Product sales analysis using the MBA model.
 
-* The project is published on (https://app.powerbi.com/groups/me/reports/0493c49e-cba3-495c-b842-d558520ad5f5/ReportSectiond2c351dd1981c6058054?clientSideAuth=0)
+* The project is published on (https://app.powerbi.com)
