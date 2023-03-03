@@ -1,6 +1,6 @@
 # Gima's Portfolio
 
-# [Project 1: Data Visualization for AHG Hardware Stores](https://github.com/Gimavincent/AHG-Saales-Dashboard)
+# [Project 1: Data Visualization for AHG Hardware Stores](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
 
 This is a project I did as a Data Analyst with Pairview Limited for a Hardware stores dataset
 
