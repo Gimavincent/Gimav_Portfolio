@@ -12,3 +12,15 @@ This is a project I did as a Data Analyst with Pairview Limited for a Hardware s
 * Product Benchmarking, 5-year Sales forecast, Supply Chain efficiency, and Product sales analysis using the MBA model.
 
 * The project is published on (https://app.powerbi.com)
+
+
+
+
+
+
+
+
+# [Project 2: Sales Dashboard](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
+
+A Power BI dashboard was used to analyze the current and future financial and operational performance of the business. The dashboard can be filtered by date range, product category, subcategory, region, state, city, country and segment.
+*
