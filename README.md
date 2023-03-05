@@ -10,12 +10,8 @@ This is a project I did as a Data Analyst with Pairview Limited for a Hardware s
 * Tools used were the Lookups, DAX, PowerPivot, Market basket analysis Models, and charts.
 * Insights of the project includes revenue & Profitability, Production & Manufacturing, Supply Chain efficiency, Customer demographic analysis
 * Product Benchmarking, 5-year Sales forecast, Supply Chain efficiency, and Product sales analysis using the MBA model.
-
+![Customer Demography](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/MBA%20Analysis%202.JPG)
 * The project is published on (https://app.powerbi.com)
-
-
-
-
 
 
 
