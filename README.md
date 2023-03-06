@@ -21,5 +21,6 @@ This is a project I did as a Data Analyst with Pairview Limited for a Hardware s
 # [Project 2: Sales Dashboard](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
 
 A Power BI dashboard was used to analyze the current and future financial and operational performance of the business. The dashboard can be filtered by date range, product category, subcategory, region, state, city, country and segment.
-*
-![Sales Dashboard](main/Sales%Dashboard.JPG)![Sales Dashboard](main/Sales%Dashboard%2.JPG)
+
+![Sales Dashboard](main/Sales%Dashboard.JPG)
+![Sales Dashboard](main/Sales%Dashboard%2.JPG)
