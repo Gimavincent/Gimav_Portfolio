@@ -21,3 +21,13 @@ A Power BI dashboard was used to analyze the current and future financial and op
 
 ![Sales Dashboard](main/Sales%Dashboard.JPG)
 ![Sales Dashboard](main/Sales%Dashboard%2.JPG)
+
+
+# [Project 3: Supply Chain & Logistics Dashboard](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
+
+# A Power BI dashboard was created to analyze the Supply chain efficiency of the company between 2011 and 2013.
+# The result shows the impact of management decisions on the supply chain
+# Highlighting late deliveries, profitable distribution channels, redundant suppliers, and top ranked suppliers
+
+![MBA Insight](main/Supply%Chain%Insights.JPG)
+![MBA Insight](main/Supply%Chain%Insights%2.JPG)
