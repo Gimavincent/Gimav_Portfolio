@@ -17,7 +17,7 @@
 
 # [Project 2: Sales Dashboard](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
 
-A Power BI dashboard was used to analyze the current and future financial and operational performance of the business. The dashboard can be filtered by date range, product category, subcategory, region, state, city, country and segment.
+* A Power BI dashboard was used to analyze the current and future financial and operational performance of the business. The dashboard can be filtered by date range, product category, subcategory, region, state, city, country and segment.
 
 ![Sales Dashboard](main/Sales%Dashboard.JPG)
 ![Sales Dashboard](main/Sales%Dashboard%2.JPG)
@@ -25,9 +25,9 @@ A Power BI dashboard was used to analyze the current and future financial and op
 
 # [Project 3: Supply Chain & Logistics Dashboard](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
 
-# A Power BI dashboard was created to analyze the Supply chain efficiency of the company between 2011 and 2013.
-# The result shows the impact of management decisions on the supply chain
-# Highlighting late deliveries, profitable distribution channels, redundant suppliers, and top ranked suppliers
+* A Power BI dashboard was created to analyze the Supply chain efficiency of the company between 2011 and 2013.
+* The result shows the impact of management decisions on the supply chain
+* Highlighting late deliveries, profitable distribution channels, redundant suppliers, and top ranked suppliers
 
 ![MBA Insight](main/Supply%Chain%Insights.JPG)
 ![MBA Insight](main/Supply%Chain%Insights%2.JPG)
