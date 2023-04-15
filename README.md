@@ -36,4 +36,4 @@
 
 * A Power BI dashboard was used to analyze the current and future financial and operational performance of the Toy sales business. The dashboard can be filtered by date range, product category, subcategory, region, state, city, country and segment.
 
-
+![Toy_Sales_Dashboard](https://user-images.githubusercontent.com/126819096/232248302-29520824-67e2-4a98-97b6-7fcf94f9993b.JPG)
