@@ -31,3 +31,9 @@
 
 ![MBA Insight](main/Supply%Chain%Insights.JPG)
 ![MBA Insight](main/Supply%Chain%Insights%2.JPG)
+
+# [Project 2: Toy_Sales Dashboard](https://github.com/Gimavincent/Gimav_Portfolio/blob/main/README.md)
+
+* A Power BI dashboard was used to analyze the current and future financial and operational performance of the Toy sales business. The dashboard can be filtered by date range, product category, subcategory, region, state, city, country and segment.
+
+
